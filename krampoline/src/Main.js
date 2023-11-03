@@ -17,7 +17,7 @@ function Main() {
     <div className="App">
       <header className="App-header">
         <div>
-            {name}가 개발자가 된다
+            {name}
         </div>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
