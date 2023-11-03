@@ -35,4 +35,4 @@ spec:
           image: krmp-d2hub-idock.9rum.cc/dev-test/repo_e3d54b5dc2c9
           env:
           - name: CODE
-            value: "백승호님"
+            value: "여준혁님"
