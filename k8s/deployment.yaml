@@ -14,7 +14,7 @@ spec:
       containers:
         - name: frontend
           # 여러분의 image 주소를 입력해주세요.
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_88835862a97b
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_c105388cab1e
 ---
 apiVersion: apps/v1
 kind: Deployment
@@ -32,7 +32,7 @@ spec:
       containers:
         - name: backend
           # 여러분의 image 주소를 입력해주세요.
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_e3d54b5dc2c9
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_defe2dffedf6
           env:
           - name: CODE
             value: "여준혁님"
